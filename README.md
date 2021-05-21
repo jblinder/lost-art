@@ -1,13 +1,13 @@
-#Lost Art: Exploring the underseen at the MFA
+# Lost Art: Exploring the underseen at the MFA
 
 Attempting to understand visitor attention toward specific pieces in a museum via Instagram photos, and help curators guide viewers towards less-viewed, but by no means lesser, works.
 
 _This project was created for Professor Kurt Fendt's MIT course ["Extending the Museum" (CMS636)](http://catalog.mit.edu/subjects/cms/)._
-##Authors
+## Authors
 - [Justin Blinder](https://www.github.com/jblinder)
 - [Mulan Mu](https://github.com/Mulanmu)
 - [Shayna Ahteck](https://github.com/asahteck)
-##Implementation
+## Implementation
 
 This project combines artwork data from the Boston MFA and Instagram photos taken by vistiors to determine which works and collections are being neglected.
 
